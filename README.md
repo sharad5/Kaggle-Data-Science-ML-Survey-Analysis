@@ -54,5 +54,5 @@ Hypothesis/Analysis to follow
 
 |Name     |  Github   | 
 |---------|-----------------|
-|[Sargun Nagpal](https://www.linkedin.com/in/sargun-nagpal/)|     TBA    |
-|[Harsha Koneru](https://www.linkedin.com/in/harshakoneru/) |     TBA    |
+|[Sargun Nagpal](https://www.linkedin.com/in/sargun-nagpal/)|  [sargun-nagpal](https://github.com/sargun-nagpal)       |
+|[Harsha Koneru](https://www.linkedin.com/in/harshakoneru/) |  [harshakoneru](https://github.com/harshakoneru)    |
