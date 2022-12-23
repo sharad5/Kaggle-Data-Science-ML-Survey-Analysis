@@ -68,4 +68,4 @@ Findings and analysis: [Report](https://github.com/sharad5/Kaggle-Data-Science-M
 |---------|-----------------|
 |[Sargun Nagpal](https://www.linkedin.com/in/sargun-nagpal/)|  [sargun-nagpal](https://github.com/sargun-nagpal)       |
 |[Harsha Koneru](https://www.linkedin.com/in/harshakoneru/) |  [harshakoneru](https://github.com/harshakoneru)    |
-|[Sharad Dargan](https://www.linkedin.com/in/sharaddargan/) |  [harshakoneru](https://github.com/sharad5)    |
+|[Sharad Dargan](https://www.linkedin.com/in/sharaddargan/) |  [sharaddargan](https://github.com/sharad5)    |
